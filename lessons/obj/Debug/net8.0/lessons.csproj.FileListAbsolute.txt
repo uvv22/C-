@@ -1,0 +1,14 @@
+C:\Users\uvv_v\OneDrive\Рабочий стол\C#\lessons\bin\Debug\net8.0\lessons.exe
+C:\Users\uvv_v\OneDrive\Рабочий стол\C#\lessons\bin\Debug\net8.0\lessons.deps.json
+C:\Users\uvv_v\OneDrive\Рабочий стол\C#\lessons\bin\Debug\net8.0\lessons.runtimeconfig.json
+C:\Users\uvv_v\OneDrive\Рабочий стол\C#\lessons\bin\Debug\net8.0\lessons.dll
+C:\Users\uvv_v\OneDrive\Рабочий стол\C#\lessons\bin\Debug\net8.0\lessons.pdb
+C:\Users\uvv_v\OneDrive\Рабочий стол\C#\lessons\obj\Debug\net8.0\lessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uvv_v\OneDrive\Рабочий стол\C#\lessons\obj\Debug\net8.0\lessons.AssemblyInfoInputs.cache
+C:\Users\uvv_v\OneDrive\Рабочий стол\C#\lessons\obj\Debug\net8.0\lessons.AssemblyInfo.cs
+C:\Users\uvv_v\OneDrive\Рабочий стол\C#\lessons\obj\Debug\net8.0\lessons.csproj.CoreCompileInputs.cache
+C:\Users\uvv_v\OneDrive\Рабочий стол\C#\lessons\obj\Debug\net8.0\lessons.dll
+C:\Users\uvv_v\OneDrive\Рабочий стол\C#\lessons\obj\Debug\net8.0\refint\lessons.dll
+C:\Users\uvv_v\OneDrive\Рабочий стол\C#\lessons\obj\Debug\net8.0\lessons.pdb
+C:\Users\uvv_v\OneDrive\Рабочий стол\C#\lessons\obj\Debug\net8.0\lessons.genruntimeconfig.cache
+C:\Users\uvv_v\OneDrive\Рабочий стол\C#\lessons\obj\Debug\net8.0\ref\lessons.dll
